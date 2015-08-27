@@ -13,7 +13,7 @@
 ######################
 
 SCRAM_ARCH_VER_CHOICE=slc6_amd64_gcc491
-CMSSW_VER_CHOICE=CMSSW_7_4_6_patch6
+CMSSW_VER_CHOICE=CMSSW_7_4_7
 START_DIR=${PWD}
 
 
